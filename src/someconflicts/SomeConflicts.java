@@ -16,6 +16,7 @@ public class SomeConflicts {
      */
     public static void main(String[] args) {
         System.out.println("We're gonna have some problems!");
+		System.out.println("Je suis maintenant dans le bureau!!!!");
     }
     
 }
